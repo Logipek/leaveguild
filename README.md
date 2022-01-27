@@ -2,9 +2,9 @@
 
 Description:
 
-Ce self Bot vous permet de leave tout les serveur en un claquement de doigt
+Ce self Bot vous permet de leave tout les serveurs en un claquement de doigt
 
-Instalation:
+installation:
 
 Your need discord.js v11.5.1
 
